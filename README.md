@@ -5,9 +5,22 @@
 
 ## Table of Contents
 
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [GitHub Repo, Profile, Quesitons](#github-repo-profile-quesitons)
+
+
 ## Introduction
 
 ## Contributing
+1. Fork it!
+2. Create your branch: `git checkout -b your branch name here`
+3. Add and commit your changes
+4. Push to your branch
+5. Submit a pull request
 
 ## License
 ![License](https://img.shields.io/badge/License-MIT-blue)
