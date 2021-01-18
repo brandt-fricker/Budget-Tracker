@@ -3,11 +3,13 @@
 
 ## Description
 
+With Budget-Tracker users will be able to add expenses and deposits to their budget with or without a connection. Once back online, the Budget-Tracker will update on the next entry.
+
 ## Table of Contents
 
   - [Description](#description)
-  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
+  - [Demo](#demo)
   - [Contributing](#contributing)
   - [License](#license)
   - [GitHub Repo, Profile, Quesitons](#github-repo-profile-quesitons)
@@ -15,9 +17,11 @@
 
 ## Introduction
 
+## Demo
+
 ## Contributing
 1. Fork it!
-2. Create your branch: `git checkout -b your branch name here`
+2. Create your branch: `git checkout -b your-branch-name-here`
 3. Add and commit your changes
 4. Push to your branch
 5. Submit a pull request
