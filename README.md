@@ -24,6 +24,15 @@ Do your finances run wild? Hate having overdraft fees from your bank or credit u
 ### Demo
 ![DemoOfBudgetTracker](./public/images/Demo.gif)
 
+## Usage
+
+You may view the Budget Tracker on heroku with this [Link](https://infinite-brushlands-07543.herokuapp.com/) or download the app to your device.
+
+  ### How to Download
+  1. Navigate to the app with the above link, or `https://infinite-brushlands-07543.herokuapp.com/` if you prefer to copy paste this into your browser
+  2. Once at the deployed app, in the address bar ![addressBar](public/images/address%20bar.png) locate the icon on the right side that looks like a circle with a plus sign ![addButton](public/images/addbtn.png)
+  3. Click the button and you will be asked if you want to install the Budget Tracker, chose install and you now have the app installed on your device.
+
 ## Contributing
 1. Fork it!
 2. Create your branch: `git checkout -b your-branch-name-here`
