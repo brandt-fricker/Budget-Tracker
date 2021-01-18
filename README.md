@@ -1,4 +1,4 @@
-# Budget-Tracker
+# Budget Tracker
 
 
 ## Description
@@ -10,6 +10,8 @@ With Budget Tracker users will be able to add expenses and deposits to their bud
   - [Description](#description)
   - [Introduction](#introduction)
   - [Demo](#demo)
+  - [Usage](#usage)
+  - [How to Download](#how-to-download)
   - [Contributing](#contributing)
   - [License](#license)
   - [GitHub Repo, Profile, Quesitons](#github-repo-profile-quesitons)
