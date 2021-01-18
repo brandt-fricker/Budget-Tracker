@@ -17,7 +17,8 @@ With Budget-Tracker users will be able to add expenses and deposits to their bud
 
 ## Introduction
 
-Do your finances run wild? Hate having overdraft fees from your bank or credit union? Do you wish you just had some magic way to know and keep track of your spending? Well with the Budget Tracker you can take control and always be in the know, with or without a stable internet connection.![DollaDollaBill](images/FRANK.gif)
+Do your finances run wild? Hate having overdraft fees from your bank or credit union? Do you wish you just had some magic way to know and keep track of your spending? Well with the Budget Tracker you can take control and always be in the know, with or without a stable internet connection.
+![DollaDollaBill](images/FRANK.gif)
 
 ## Demo
 
